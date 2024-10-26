@@ -1,0 +1,17 @@
+
+adı="Sude Akyol"
+ortalaması ={79}
+
+ogrenciler={Sude Akyol}
+ortalamalar{79}
+
+liste={"nar","dut","muz"}
+
+
+print(adı)
+print(ortalaması)
+print(liste)
+
+print(adı[1])
+#print(ortalaması[1])
+print(liste [1])
